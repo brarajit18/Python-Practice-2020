@@ -1,2 +1,3 @@
-# Thinklogix.io_Python_course_July_22_batch
- Python Course Contents (July 22, 2020)
+### Python Challenges & Practice Codes
+
+The "Python Challenges & Practice Codes" project is designed to help myself and my fellow learners to improve our Python programming skills through a series of coding challenges and exercises. This project is specifically tailored to help us upskill in Python, and includes a variety of exercises and challenges that range from basic programming concepts to more advanced topics such as data structures and algorithms. Overall, this project acted as a valuable resource that helped to deepen your understanding of the Python language and improve our coding skills.
